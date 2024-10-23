@@ -41,13 +41,10 @@
 * NGINX
 * Certbot
 
-<br><br>
 ## IDE
 
 * IntelliJ
 * VSCode
-
-<br><br>
 
 ## 협업 도구
 
@@ -56,8 +53,6 @@
 * Notion
 * Figma
 * Google workspace
-
-<br><br>
 
 ## 구현 기능
 
