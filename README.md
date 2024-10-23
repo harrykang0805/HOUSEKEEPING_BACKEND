@@ -2,7 +2,9 @@
 
 <p align="center">
   <br>
-  <img src="">
+  
+  ![스크린샷 2024-10-23 115333](https://github.com/user-attachments/assets/1d7b3167-89c1-4a9e-8cf6-5243e6782ee8)
+
   <br>
 </p>
 
@@ -10,6 +12,8 @@
 
 ### 프로젝트 개요/동기
 </p>
+
+![스크린샷 2024-10-23 115620](https://github.com/user-attachments/assets/96e7e526-21e0-4476-b1a3-a9af9cc04e17)
 * 최근 1인 가구 수의 급격한 증가<br><br>
 * 자취 생활에 어려움을 겪는 사람 또한 증가<br><br>
 * 사람이 살아가는 데 필수적인 3가지 요소인 의/식/주를 통합•관리하는 웹 애플리케이션 개발<br><br>
@@ -21,38 +25,11 @@
 
 <br>
 
-## 기술 스택
+## 개발환경
 
-* Java/SpringBoot
-* Python
-* React / vite.js / three.js
-* TensorFlow
-* Keras
-* Node.js
-* JPA
-* MySQL / QueryDSL
+![스크린샷 2024-10-23 115103](https://github.com/user-attachments/assets/7767971a-8ef3-4c74-a786-08abe64759a9)
 
-## Server
-
-* Flask
-* Naver Cloud
-* Jenkins
-* Docker
-* NGINX
-* Certbot
-
-## IDE
-
-* IntelliJ
-* VSCode
-
-## 협업 도구
-
-* Git / GitHub
-* Slack
-* Notion
-* Figma
-* Google workspace
+<br>
 
 ## 구현 기능
 
@@ -68,7 +45,17 @@
 
 #### - 냉장고에 있는 식음료등의 유통기한을 등록하면 SMS로 기한확인 알림기능 구현
 
+<br>
 
-</p>
+## ERD
+
+![스크린샷 2024-10-23 114505](https://github.com/user-attachments/assets/b34e795a-9593-403b-adb9-16543fa728d2)
+
+<br>
+
+## 초기 UI 구현
+
+![스크린샷 2024-10-23 114956](https://github.com/user-attachments/assets/fad7e95e-bbdf-4715-a753-eb44f37a28a4)
+
 
 <br>
