@@ -31,6 +31,13 @@
 
 <br>
 
+## 아키텍쳐
+
+![HouseKeeping_ServiceArchitecture](https://github.com/user-attachments/assets/0e79f846-4f17-43f0-a1ba-9eba92cc2f20)
+
+
+<br>
+
 ## 🪄 구현 기능
 
 #### - 3D모델링을 활용한 개인공간서비스 제공
